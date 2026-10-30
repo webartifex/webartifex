@@ -1,3 +1,21 @@
+## Work
+
+I run [webartifex](https://www.webartifex.de),
+    a small data and software consultancy,
+    since 2015.
+
+
+What we offer:
+
+- Backend & databases
+- Data analytics & ML
+- Interim CTO
+- Trainings & workshops
+
+
+Interested? Reach out at [hello@webartifex.de](mailto:hello@webartifex.de)
+
+
 ## Code
 
 Most of my code lives on our own Git forge: [code.webartifex.de](https://code.webartifex.de/alexander)
